@@ -1,0 +1,53 @@
+* {
+  box-sizing: border-box;
+}
+
+.header {
+  border: 3px solid #FDBFB7;
+  padding: 15px;
+  background-color: #FDBFB7;
+  font-family: pristina;
+  text-align: center;
+  font-size: 200%;
+color: white;
+}
+
+/*.photo {
+
+  float: ;
+}*/
+
+h2, h3 {
+
+text-align: center;
+text-decoration: underline;
+font-size: 135%;
+}
+
+img {
+
+text-decoration-style: white;
+
+}
+
+.divers {
+  width: 25%;
+  float: left;
+  padding: 15px;
+  border: 3px solid white;
+  background-color: #798081;
+  color: white;
+  font-family: roboto;
+  font-size: 120%;
+
+}
+
+.ExpPro {
+  width: 75%;
+  float: left;
+  padding: 15px;
+  border: 3px solid gray;
+  font-family: roboto;
+  font-size: 120%;
+}
+
